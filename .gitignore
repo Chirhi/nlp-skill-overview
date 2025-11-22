@@ -1,1 +1,14 @@
 /catboost_info
+/mlflow
+/.venv
+/models/vectorization/
+/mlruns
+
+__pycache__
+
+.pkl
+.bin
+.tar
+.parquet
+.npy
+.npz
